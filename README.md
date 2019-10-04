@@ -1,2 +1,2 @@
-# Addition-App
-This is a simple addition app created in android studio.
+# Quick Launcher
+This is an application that demonstrates more than one screen or activity.
