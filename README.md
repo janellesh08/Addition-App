@@ -1,2 +1,2 @@
 # Quick Launcher
-This is an application that demonstrates more than one screen or activity.
+This is an app that acts as a menu for launching other apps.
